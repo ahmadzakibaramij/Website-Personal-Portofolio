@@ -361,7 +361,7 @@ nav a:hover {
   width: 100%;
   padding: 20px;
   background: rgba(0, 0, 0, 0.7);
-  transform: translateY(100%);
+  transform: auto;
   transition: transform 0.4s ease;
   text-align: left;
 }
